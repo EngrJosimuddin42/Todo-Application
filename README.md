@@ -36,7 +36,7 @@ Users can add, edit, delete, and mark tasks as completed — ensuring better pro
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/EngrJosimuddin42/todo_app.git
+   git clone https://github.com/EngrJosimuddin42/Todo-Application.git
 
 ---
 
