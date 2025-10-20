@@ -42,8 +42,7 @@ Users can add, edit, delete, and mark tasks as completed — ensuring better pro
 
 ## 🧑‍💻 Author
 **Engr. Josimuddin**  
-📧 [josimcse@gmail.com](mailto:josimcse@gmail.com)  
-🌐 [GitHub Profile](https://github.com/EngrJosimuddin42)
+📧 [josimcse@gmail.com](mailto:josimcse@gmail.com)
 
 ---
 
